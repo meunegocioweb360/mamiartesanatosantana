@@ -3,7 +3,7 @@
 ## Tour
 
 ### Description
-tour.description = Rua Cardeal Arcoverde, 2029 - Pinheiros, São Paulo - SP, 05407-003
+tour.description = Rua Augusto Tolle, 736 - Santana, São Paulo, 02405-001
 
 ### Title
 tour.name = Mami Artesanato Santana - Tour Virtual 360°
@@ -13,14 +13,10 @@ tour.name = Mami Artesanato Santana - Tour Virtual 360°
 ### Button
 Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = CONTACT
 Button_1830D20E_17B1_6AC3_4198_688BED36E073_mobile.label = CONTACT
-Button_19745063_0149_961D_4146_3B16191ADE0B.label = WhatsApp
-Button_198A0342_0146_9A1F_4166_09AA3D78A600_mobile.label = WhatsApp
-Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = Instagram
-Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = Instagram
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = Fotos 360°
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = Fotos 360°
-Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = Site
-Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = Nosso Site
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = Nossos Contatos
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = Nossos Contatos
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
@@ -48,16 +44,11 @@ panorama_0A6C5305_0146_9A25_4170_F6EE38BA19DA.label = 3
 panorama_0A6D52AE_0146_9A67_4174_753850EE17EC.label = 6
 panorama_0A7018CD_0146_B625_4146_5A4F759DE4EA.label = 2
 panorama_0B9F2DB1_0146_AE7D_4172_A42EA2382474.label = 1
-video_0C33A554_014A_FE3B_4167_D06B3ACDC7A0.label = carregando
 
 ## Action
 
 ### URL
-LinkBehaviour_0925592E_1BC1_6FA5_41B5_48FA3D057520.source = https://moveisparavarandas.com.br/
-LinkBehaviour_09769073_1BC1_7DA3_4173_3C662A46A707.source = https://www.instagram.com/mamiartesanato/
+LinkBehaviour_0925592E_1BC1_6FA5_41B5_48FA3D057520.source = https://linklist.bio/mamiartesanato
 LinkBehaviour_1040A5FF_0146_99E5_414F_0ED2C2D98145.source = http://www.loremipsum.com
 LinkBehaviour_124D22ED_0159_9BE0_4173_65BF2CB2153A.source = http://www.loremipsum.com
-LinkBehaviour_16AB4CBD_0146_AE65_4160_4DE4B640B0B2.source = https://api.whatsapp.com/send?phone=555511963054040
-LinkBehaviour_16B03BFF_014B_69E4_416A_17CC6E1C16E7.source = https://www.instagram.com/mamiartesanato/
-LinkBehaviour_16BC5565_014A_9EE5_4161_90534B4B69F5.source = http://mamiartesanato.com.br/
-LinkBehaviour_19D42B58_0147_6A2B_4165_2B3AAA358F70.source = https://api.whatsapp.com/send?phone=5511963054040
+LinkBehaviour_16BC5565_014A_9EE5_4161_90534B4B69F5.source = https://linklist.bio/mamiartesanato
